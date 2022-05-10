@@ -1,1 +1,11 @@
-
+<xml>
+  
+  <bug_number>"1"</bug_number>
+  <summary>"what, where, how"</summary>
+  <description>"..."</description>
+  <steps_to_reproduse>"..."</steps_to_reproduse>
+  <environment>"..."</environment>
+  <siverity>"..."</siverity>
+  <priority>".."</priority>
+  <actual_result>"..."</actual_result>
+  <expected_result>"..."</expected_result>
